@@ -18,7 +18,7 @@ bounding_boxes, landmarks = detect_faces(image)
 For examples see `test_on_images.ipynb`.
 
 ## Requirements
-* pytorch 0.2
+* pytorch 1.0
 * Pillow, numpy
 
 ## Credit
